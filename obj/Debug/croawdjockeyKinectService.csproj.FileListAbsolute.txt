@@ -1,0 +1,1 @@
+c:\users\sxsw hackathon\documents\visual studio 2013\Projects\croawdjockeyKinectService\croawdjockeyKinectService\bin\Debug\croawdjockeyKinectService.exe.config
